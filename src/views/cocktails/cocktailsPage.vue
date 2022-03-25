@@ -17,7 +17,7 @@
           <ion-accordion-group>
             <ion-accordion value="numbers">
               <ion-item slot="header">
-                <ion-label>Ingredient Filter another bit here </ion-label>
+                <ion-label>Ingredient Filter </ion-label>
               </ion-item>
               
 
