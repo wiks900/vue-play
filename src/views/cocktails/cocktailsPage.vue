@@ -17,8 +17,9 @@
           <ion-accordion-group>
             <ion-accordion value="numbers">
               <ion-item slot="header">
-                <ion-label>Ingredient Filter </ion-label>
+                <ion-label>Ingredient Filter another bit here </ion-label>
               </ion-item>
+              
 
               <ion-list slot="content">
                 <ion-item v-for="( item,key ) of ingredients" :key="key"  @click="searchCocktailIngredient(item.strIngredient1)" >
