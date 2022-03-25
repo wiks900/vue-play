@@ -1,0 +1,7 @@
+{
+  "name": "VuePlay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
