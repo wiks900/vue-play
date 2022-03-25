@@ -45,6 +45,7 @@
           </ion-card-header>
           <ion-card-content>
             <!-- {{item}} -->
+            sjjsd
           </ion-card-content>
         </ion-card>
       </ion-col>
